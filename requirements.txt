@@ -1,0 +1,3 @@
+assemblyline-client==4.2.2
+prometheus-client==0.13.1
+python-dotenv
